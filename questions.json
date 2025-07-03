@@ -1,0 +1,2503 @@
+{
+  "gerais": [
+    {
+      "id": 1,
+      "question": "Qual time brasileiro é conhecido como 'Verdão'?",
+      "options": ["Palmeiras", "Corinthians", "São Paulo", "Grêmio"],
+      "answer": "Palmeiras"
+    },
+    {
+      "id": 2,
+      "question": "Qual é o maior estádio do Brasil?",
+      "options": ["Maracanã", "Mineirão", "Morumbi", "Beira-Rio"],
+      "answer": "Maracanã"
+    },
+    {
+      "id": 3,
+      "question": "Quem é o maior artilheiro da seleção brasileira?",
+      "options": ["Pelé", "Ronaldo Fenômeno", "Neymar", "Romário"],
+      "answer": "Pelé"
+    },
+    {
+      "id": 4,
+      "question": "Qual time ganhou mais títulos do Campeonato Brasileiro?",
+      "options": ["Palmeiras", "Flamengo", "Corinthians", "Santos"],
+      "answer": "Palmeiras"
+    },
+    {
+      "id": 5,
+      "question": "Qual o apelido do time do Flamengo?",
+      "options": ["Mengão", "Furacão", "Tricolor", "Vascão"],
+      "answer": "Mengão"
+    },
+    {
+      "id": 6,
+      "question": "Quem é conhecido como o 'Rei do Futebol'?",
+      "options": ["Pelé", "Maradona", "Neymar", "Zico"],
+      "answer": "Pelé"
+    },
+    {
+      "id": 7,
+      "question": "Qual foi o primeiro time brasileiro campeão da Libertadores?",
+      "options": ["Santos", "Flamengo", "Grêmio", "Palmeiras"],
+      "answer": "Santos"
+    },
+    {
+      "id": 8,
+      "question": "Qual jogador tem mais gols em finais de Copa do Mundo?",
+      "options": ["Ronaldo Fenômeno", "Pelé", "Miroslav Klose", "Just Fontaine"],
+      "answer": "Ronaldo Fenômeno"
+    },
+    {
+      "id": 9,
+      "question": "Qual time tem como mascote um peixe chamado 'Peixe'?",
+      "options": ["Santos", "Vasco", "Botafogo", "Flamengo"],
+      "answer": "Santos"
+    },
+    {
+      "id": 10,
+      "question": "Em que ano o futebol foi introduzido no Brasil?",
+      "options": ["1894", "1900", "1888", "1910"],
+      "answer": "1894"
+    },
+    {
+      "id": 11,
+      "question": "Qual é o apelido do time do Botafogo?",
+      "options": ["Fogão", "Galo", "Tricolor", "Leão"],
+      "answer": "Fogão"
+    },
+    {
+      "id": 12,
+      "question": "Quem é o maior ídolo da história do Grêmio?",
+      "options": ["Renato Gaúcho", "Falcão", "Rivellino", "Ronaldinho Gaúcho"],
+      "answer": "Renato Gaúcho"
+    },
+    {
+      "id": 13,
+      "question": "Qual time é conhecido como 'Colorado'?",
+      "options": ["Internacional", "Atlético Mineiro", "São Paulo", "Vasco"],
+      "answer": "Internacional"
+    },
+    {
+      "id": 14,
+      "question": "Quem é o maior campeão brasileiro entre os clubes do Rio de Janeiro?",
+      "options": ["Flamengo", "Vasco", "Botafogo", "Fluminense"],
+      "answer": "Flamengo"
+    },
+    {
+      "id": 15,
+      "question": "Qual clube tem a maior torcida do Brasil?",
+      "options": ["Flamengo", "Corinthians", "Palmeiras", "Vasco"],
+      "answer": "Flamengo"
+    },
+    {
+      "id": 16,
+      "question": "Quem foi o técnico da seleção brasileira na Copa de 2002?",
+      "options": ["Felipão", "Dunga", "Parreira", "Zagallo"],
+      "answer": "Felipão"
+    },
+    {
+      "id": 17,
+      "question": "Qual clube tem o estádio chamado Mineirão?",
+      "options": ["Atlético Mineiro", "Cruzeiro", "América-MG", "Boa Esporte"],
+      "answer": "Atlético Mineiro"
+    },
+    {
+      "id": 18,
+      "question": "Quem é o maior artilheiro da história do Flamengo?",
+      "options": ["Zico", "Romário", "Júnior", "Adílio"],
+      "answer": "Zico"
+    },
+    {
+      "id": 19,
+      "question": "Qual time paulista é conhecido como 'Peixe'?",
+      "options": ["Santos", "São Paulo", "Palmeiras", "Corinthians"],
+      "answer": "Santos"
+    },
+    {
+      "id": 20,
+      "question": "Qual clube é conhecido como 'Tricolor'?",
+      "options": ["São Paulo", "Corinthians", "Palmeiras", "Botafogo"],
+      "answer": "São Paulo"
+    },
+    {
+      "id": 21,
+      "question": "Qual foi o primeiro clube brasileiro a conquistar a Copa do Mundo de Clubes da FIFA?",
+      "options": ["Corinthians", "Santos", "Flamengo", "São Paulo"],
+      "answer": "Corinthians"
+    },
+    {
+      "id": 22,
+      "question": "Quem é o maior artilheiro da história do Cruzeiro?",
+      "options": ["Tostão", "Dirceu Lopes", "Fabrício", "Vanderlei"],
+      "answer": "Tostão"
+    },
+    {
+      "id": 23,
+      "question": "Qual clube tem a alcunha de 'Furacão'?",
+      "options": ["Athletico Paranaense", "Atlético Mineiro", "Coritiba", "América-MG"],
+      "answer": "Athletico Paranaense"
+    },
+    {
+      "id": 24,
+      "question": "Qual jogador brasileiro é conhecido como 'Fenômeno'?",
+      "options": ["Ronaldo Nazário", "Neymar", "Ronaldinho", "Pelé"],
+      "answer": "Ronaldo Nazário"
+    },
+    {
+      "id": 25,
+      "question": "Qual o maior clássico do futebol paulista?",
+      "options": ["Palmeiras x Corinthians", "São Paulo x Santos", "Corinthians x São Paulo", "Santos x Palmeiras"],
+      "answer": "Palmeiras x Corinthians"
+    },
+    {
+      "id": 26,
+      "question": "Qual clube tem o maior número de títulos da Copa do Brasil?",
+      "options": ["Cruzeiro", "Grêmio", "Palmeiras", "Flamengo"],
+      "answer": "Cruzeiro"
+    },
+    {
+      "id": 27,
+      "question": "Qual clube tem o acesso negado?",
+      "options": ["Corinthians", "São Paulo", "Gremio", "Palmeiras"],
+      "answer": "Corinthians"
+    },
+    {
+      "id": 28,
+      "question": "Quem é o maior artilheiro da história do Atlético Mineiro?",
+      "options": ["Reinaldo", "Diego Tardelli", "Toninho Cerezo", "Ronaldinho Gaúcho"],
+      "answer": "Reinaldo"
+    },
+    {
+      "id": 29,
+      "question": "Qual clube do Rio é conhecido como 'Flu'?",
+      "options": ["Fluminense", "Flamengo", "Vasco", "Botafogo"],
+      "answer": "Fluminense"
+    },
+    {
+      "id": 30,
+      "question": "Quem é o maior campeão da Libertadores entre os clubes brasileiros?",
+      "options": ["São Paulo", "Palmeiras", "Grêmio", "Santos"],
+      "answer": "São Paulo"
+    },
+    {
+      "id": 31,
+      "question": "Qual clube paulista é conhecido como 'Porco'?",
+      "options": ["Palmeiras", "Corinthians", "São Paulo", "Santos"],
+      "answer": "Palmeiras"
+    },
+    {
+      "id": 32,
+      "question": "Qual o clube com o maior número de títulos estaduais em São Paulo?",
+      "options": ["Corinthians", "Palmeiras", "São Paulo", "Santos"],
+      "answer": "Corinthians"
+    },
+    {
+      "id": 33,
+      "question": "Quem é o maior ídolo da história do Vasco?",
+      "options": ["Roberto Dinamite", "Romário", "Juninho Pernambucano", "Edmundo"],
+      "answer": "Roberto Dinamite"
+    },
+    {
+      "id": 34,
+      "question": "Qual clube tem o apelido de 'Leão da Ilha'?",
+      "options": ["Figueirense", "Vasco", "Chapecoense", "Joinville"],
+      "answer": "Figueirense"
+    },
+    {
+      "id": 35,
+      "question": "Qual clube tem como cores o vermelho e o branco?",
+      "options": ["Flamengo", "Internacional", "São Paulo", "Vasco"],
+      "answer": "Internacional"
+    },
+    {
+      "id": 36,
+      "question": "Qual é o maior clássico do futebol gaúcho?",
+      "options": ["Gre-Nal", "Galo x Cruzeiro", "Fla x Flu", "Palmeiras x Corinthians"],
+      "answer": "Gre-Nal"
+    },
+    {
+      "id": 37,
+      "question": "Quem foi o primeiro técnico brasileiro a conquistar uma Copa do Mundo?",
+      "options": ["Vargas", "Felipão", "Zagallo", "Cláudio Coutinho"],
+      "answer": "Zagallo"
+    },
+    {
+      "id": 38,
+      "question": "Qual time brasileiro tem a maior sequência invicta no Campeonato Brasileiro?",
+      "options": ["Palmeiras", "Corinthians", "Flamengo", "São Paulo"],
+      "answer": "Palmeiras"
+    },
+    {
+      "id": 39,
+      "question": "Quem é o maior jogador da história do Santos?",
+      "options": ["Pelé", "Neymar", "Robinho", "Coutinho"],
+      "answer": "Pelé"
+    },
+    {
+      "id": 40,
+      "question": "Qual clube tem a alcunha de 'Galo'?",
+      "options": ["Atlético Mineiro", "Cruzeiro", "Vasco", "Botafogo"],
+      "answer": "Atlético Mineiro"
+    },
+    {
+      "id": 41,
+      "question": "Qual clube tem um estádio chamado Beira-Rio?",
+      "options": ["Internacional", "Grêmio", "Palmeiras", "São Paulo"],
+      "answer": "Internacional"
+    },
+    {
+      "id": 42,
+      "question": "Quem foi o maior técnico da história do Flamengo?",
+      "options": ["Carlinhos", "Jorge Jesus", "Zagallo", "Telê Santana"],
+      "answer": "Jorge Jesus"
+    },
+    {
+      "id": 43,
+      "question": "Qual time é conhecido pelo uniforme listrado preto e branco?",
+      "options": ["Botafogo", "Corinthians", "Atlético Mineiro", "Figueirense"],
+      "answer": "Botafogo"
+    },
+    {
+      "id": 44,
+      "question": "Qual clube paulista tem o maior número de títulos da Copa Libertadores?",
+      "options": ["São Paulo", "Palmeiras", "Santos", "Corinthians"],
+      "answer": "São Paulo"
+    },
+    {
+      "id": 45,
+      "question": "Quem é o maior ídolo do Corinthians?",
+      "options": ["Sócrates", "Ronaldo", "Marcelinho Carioca", "Cláudio"],
+      "answer": "Cláudio"
+    },
+    {
+      "id": 46,
+      "question": "Qual clube tem como mascote um leão?",
+      "options": ["Flamengo", "Fluminense", "Vasco", "Botafogo"],
+      "answer": "Fluminense"
+    },
+    {
+      "id": 47,
+      "question": "Quem é conhecido como o 'Príncipe' do futebol brasileiro?",
+      "options": ["Neymar", "Ronaldinho", "Rivaldo", "Kaká"],
+      "answer": "Kaká"
+    },
+    {
+      "id": 48,
+      "question": "Qual time carioca tem as cores vermelha, verde e branco?",
+      "options": ["Fluminense", "Vasco", "Botafogo", "Flamengo"],
+      "answer": "Fluminense"
+    },
+    {
+      "id": 49,
+      "question": "Qual é o nome do campeonato brasileiro de futebol da primeira divisão?",
+      "options": ["Brasileirão", "Copa do Brasil", "Libertadores", "Sul-Americana"],
+      "answer": "Brasileirão"
+    },
+    {
+      "id": 50,
+      "question": "Quem foi o primeiro jogador brasileiro a atuar na Europa?",
+      "options": ["Arthur Friedenreich", "Pelé", "Zico", "Garrincha"],
+      "answer": "Arthur Friedenreich"
+    }
+  ],
+
+  "palmeiras": [
+  {
+    "id": 51,
+    "question": "Em que ano o Palmeiras foi fundado?",
+    "options": ["1914", "1920", "1900", "1930"],
+    "answer": "1914"
+  },
+  {
+    "id": 52,
+    "question": "Qual é o apelido carinhoso do Palmeiras?",
+    "options": ["Verdão", "Porco", "Alviverde", "Palestra"],
+    "answer": "Porco"
+  },
+  {
+    "id": 53,
+    "question": "Quantas vezes o Palmeiras venceu a Copa Libertadores até 2023?",
+    "options": ["3", "5", "4", "2"],
+    "answer": "5"
+  },
+  {
+    "id": 54,
+    "question": "Qual jogador é conhecido como o maior ídolo do Palmeiras?",
+    "options": ["Marcos", "Ademir da Guia", "Cesar Maluco", "Dudu"],
+    "answer": "Ademir da Guia"
+  },
+  {
+    "id": 55,
+    "question": "Qual é o estádio oficial do Palmeiras?",
+    "options": ["Pacaembu", "Allianz Parque", "Morumbi", "Arena Corinthians"],
+    "answer": "Allianz Parque"
+  },
+  {
+    "id": 56,
+    "question": "Quantos títulos brasileiros o Palmeiras possui até 2023?",
+    "options": ["10", "11", "9", "8"],
+    "answer": "11"
+  },
+  {
+    "id": 57,
+    "question": "Quem foi o técnico que comandou o Palmeiras no título da Libertadores de 2020?",
+    "options": ["Felipe Scolari", "Luiz Felipe Vieira", "Abel Ferreira", "Vanderlei Luxemburgo"],
+    "answer": "Abel Ferreira"
+  },
+  {
+    "id": 58,
+    "question": "Qual é a cor principal do uniforme do Palmeiras?",
+    "options": ["Verde", "Azul", "Vermelho", "Amarelo"],
+    "answer": "Verde"
+  },
+  {
+    "id": 59,
+    "question": "Quem foi o goleiro campeão com o Palmeiras na Libertadores de 2020?",
+    "options": ["Marcos", "Weverton", "Felipe", "Fernando Prass"],
+    "answer": "Weverton"
+  },
+  {
+    "id": 60,
+    "question": "Qual jogador famoso vestiu a camisa 10 do Palmeiras nas décadas de 70 e 80?",
+    "options": ["Djalma Santos", "Ademir da Guia", "Roberto Carlos", "Evair"],
+    "answer": "Ademir da Guia"
+  },
+  {
+    "id": 61,
+    "question": "Qual é o apelido da torcida organizada do Palmeiras?",
+    "options": ["Gaviões da Fiel", "Mancha Verde", "Torcida Jovem", "Pavilhão Nove"],
+    "answer": "Mancha Verde"
+  },
+  {
+    "id": 62,
+    "question": "Quem é o maior artilheiro da história do Palmeiras?",
+    "options": ["Heitor", "Marcos", "Evair", "Jorge Mendonça"],
+    "answer": "Heitor"
+  },
+  {
+    "id": 63,
+    "question": "Quantas vezes o Palmeiras foi campeão da Copa do Brasil até 2023?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 64,
+    "question": "Qual clássico paulista é conhecido como Derby e envolve o Palmeiras?",
+    "options": ["Palmeiras x Corinthians", "Palmeiras x São Paulo", "Palmeiras x Santos", "Palmeiras x Ponte Preta"],
+    "answer": "Palmeiras x Corinthians"
+  },
+  {
+    "id": 65,
+    "question": "Qual time foi o adversário do Palmeiras na final da Libertadores de 2020?",
+    "options": ["River Plate", "Boca Juniors", "Santos", "Grêmio"],
+    "answer": "Santos"
+  },
+  {
+    "id": 66,
+    "question": "Qual foi o maior artilheiro do Palmeiras na temporada 2023?",
+    "options": ["Dudu", "Rony", "Raphael Veiga", "Gustavo Scarpa"],
+    "answer": "Raphael Veiga"
+  },
+  {
+    "id": 67,
+    "question": "Quem foi o presidente do Palmeiras durante a conquista da Libertadores em 2020?",
+    "options": ["Maurício Galiotte", "Leila Pereira", "Paulo Nobre", "Mustafá Contursi"],
+    "answer": "Maurício Galiotte"
+  },
+  {
+    "id": 68,
+    "question": "Quantas vezes o Palmeiras venceu o Mundial de Clubes da FIFA?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "0"
+  },
+  {
+    "id": 69,
+    "question": "Qual foi o maior placar registrado em um jogo do Palmeiras?",
+    "options": ["10x0", "8x1", "9x0", "7x0"],
+    "answer": "10x0"
+  },
+  {
+    "id": 70,
+    "question": "Quem foi o treinador do Palmeiras campeão brasileiro em 2018?",
+    "options": ["Vanderlei Luxemburgo", "Felipe Scolari", "Roger Machado", "Mano Menezes"],
+    "answer": "Felipe Scolari"
+  },
+  {
+    "id": 71,
+    "question": "Qual a origem do nome 'Palmeiras'?",
+    "options": ["Fundado como Palestra Itália", "Fundado por palmeirenses", "Referência a palmeiras na cidade", "Homenagem a um jogador"],
+    "answer": "Fundado como Palestra Itália"
+  },
+  {
+    "id": 72,
+    "question": "Quem foi o maior artilheiro da Copa Rio de 1951, conquistada pelo Palmeiras?",
+    "options": ["Ademir da Guia", "Liminha", "Osvaldo Brandão", "Canhoteiro"],
+    "answer": "Liminha"
+  },
+  {
+    "id": 73,
+    "question": "Qual clube tem como rival histórico o Corinthians?",
+    "options": ["Palmeiras", "São Paulo", "Santos", "Flamengo"],
+    "answer": "Palmeiras"
+  },
+  {
+    "id": 74,
+    "question": "Quantas vezes o Palmeiras foi campeão da Taça Brasil?",
+    "options": ["3", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "id": 75,
+    "question": "Quem é o atual técnico do Palmeiras em 2024?",
+    "options": ["Abel Ferreira", "Luiz Felipe Scolari", "Jorge Jesus", "Vanderlei Luxemburgo"],
+    "answer": "Abel Ferreira"
+  },
+  {
+    "id": 76,
+    "question": "Qual é o maior rival do Palmeiras na cidade de São Paulo?",
+    "options": ["Corinthians", "São Paulo", "Santos", "Portuguesa"],
+    "answer": "Corinthians"
+  },
+  {
+    "id": 77,
+    "question": "Quantos títulos estaduais o Palmeiras possui até 2023?",
+    "options": ["23", "22", "24", "25"],
+    "answer": "24"
+  },
+  {
+    "id": 78,
+    "question": "Qual foi o maior goleiro da história do Palmeiras?",
+    "options": ["Marcos", "Fábio Costa", "Prass", "Felipe"],
+    "answer": "Marcos"
+  },
+  {
+    "id": 79,
+    "question": "Qual jogador do Palmeiras foi eleito o melhor do Campeonato Brasileiro em 2023?",
+    "options": ["Raphael Veiga", "Dudu", "Gustavo Scarpa", "Rony"],
+    "answer": "Raphael Veiga"
+  },
+  {
+    "id": 80,
+    "question": "Qual é a cor do uniforme reserva do Palmeiras?",
+    "options": ["Branco", "Preto", "Azul", "Vermelho"],
+    "answer": "Branco"
+  }
+],
+
+"sao_paulo": [
+  {
+    "id": 81,
+    "question": "Em que ano o São Paulo Futebol Clube foi fundado?",
+    "options": ["1930", "1935", "1934", "1929"],
+    "answer": "1930"
+  },
+  {
+    "id": 82,
+    "question": "Qual é o apelido tradicional do São Paulo?",
+    "options": ["Tricolor", "Furacão", "Porco", "Leão"],
+    "answer": "Tricolor"
+  },
+  {
+    "id": 83,
+    "question": "Quantas vezes o São Paulo venceu a Copa Libertadores até 2023?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 84,
+    "question": "Quem foi o maior ídolo e camisa 10 do São Paulo na década de 90?",
+    "options": ["Raí", "Kaká", "Müller", "Careca"],
+    "answer": "Raí"
+  },
+  {
+    "id": 85,
+    "question": "Qual estádio é o mando oficial do São Paulo?",
+    "options": ["Morumbi", "Pacaembu", "Allianz Parque", "Beira-Rio"],
+    "answer": "Morumbi"
+  },
+  {
+    "id": 86,
+    "question": "Quantos títulos brasileiros o São Paulo possui até 2023?",
+    "options": ["6", "5", "7", "4"],
+    "answer": "6"
+  },
+  {
+    "id": 87,
+    "question": "Quem foi o técnico campeão da Libertadores e Mundial pelo São Paulo nos anos 90?",
+    "options": ["Telê Santana", "Muricy Ramalho", "Luiz Felipe Scolari", "Tite"],
+    "answer": "Telê Santana"
+  },
+  {
+    "id": 88,
+    "question": "Qual jogador são-paulino é conhecido como o 'Fenômeno'?",
+    "options": ["Ronaldo Nazário", "Kaká", "Careca", "Müller"],
+    "answer": "Ronaldo Nazário"
+  },
+  {
+    "id": 89,
+    "question": "Quantas vezes o São Paulo venceu o Mundial de Clubes FIFA até 2023?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "3"
+  },
+  {
+    "id": 90,
+    "question": "Qual é o maior rival histórico do São Paulo?",
+    "options": ["Corinthians", "Palmeiras", "Santos", "Flamengo"],
+    "answer": "Corinthians"
+  },
+  {
+    "id": 91,
+    "question": "Quem é o maior artilheiro da história do São Paulo?",
+    "options": ["Rodrigo Caio", "Luis Fabiano", "Serginho Chulapa", "Raí"],
+    "answer": "Serginho Chulapa"
+  },
+  {
+    "id": 92,
+    "question": "Qual é o nome da torcida organizada mais famosa do São Paulo?",
+    "options": ["Torcida Independente", "Mancha Verde", "Gaviões da Fiel", "Força Jovem"],
+    "answer": "Torcida Independente"
+  },
+  {
+    "id": 93,
+    "question": "Qual jogador são-paulino foi eleito melhor jogador do mundo pela FIFA em 2007?",
+    "options": ["Kaká", "Rogério Ceni", "Raí", "Cafu"],
+    "answer": "Kaká"
+  },
+  {
+    "id": 94,
+    "question": "Qual goleiro é ídolo e símbolo do São Paulo, conhecido por cobrar faltas e pênaltis?",
+    "options": ["Rogério Ceni", "Marcos", "Felipe", "Dida"],
+    "answer": "Rogério Ceni"
+  },
+  {
+    "id": 95,
+    "question": "Qual o maior título conquistado pelo São Paulo na década de 2000?",
+    "options": ["Libertadores", "Brasileirão", "Copa do Brasil", "Mundial de Clubes"],
+    "answer": "Libertadores"
+  },
+  {
+    "id": 96,
+    "question": "Quantos títulos estaduais o São Paulo possui?",
+    "options": ["22", "21", "19", "24"],
+    "answer": "22"
+  },
+  {
+    "id": 97,
+    "question": "Quem foi o técnico responsável pelos títulos do São Paulo no início dos anos 2000?",
+    "options": ["Muricy Ramalho", "Telê Santana", "Vanderlei Luxemburgo", "Carpegiani"],
+    "answer": "Muricy Ramalho"
+  },
+  {
+    "id": 98,
+    "question": "Qual foi o maior artilheiro do São Paulo na temporada 2023?",
+    "options": ["Calleri", "Luciano", "Gabriel Sara", "Diego Costa"],
+    "answer": "Calleri"
+  },
+  {
+    "id": 99,
+    "question": "Qual é o nome do mascote do São Paulo?",
+    "options": ["Santo Paulo", "São Paulinho", "Santo Tricolor", "Não tem mascote oficial"],
+    "answer": "Não tem mascote oficial"
+  },
+  {
+    "id": 100,
+    "question": "Quantas vezes o São Paulo foi campeão da Copa do Brasil até 2023?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "0"
+  },
+  {
+    "id": 101,
+    "question": "Quem foi o maior ídolo do São Paulo nos anos 80?",
+    "options": ["Careca", "Müller", "Raí", "Toninho Cerezo"],
+    "answer": "Müller"
+  },
+  {
+    "id": 102,
+    "question": "Qual é a maior rivalidade do São Paulo fora do estado de São Paulo?",
+    "options": ["Flamengo", "Atlético Mineiro", "Grêmio", "Cruzeiro"],
+    "answer": "Flamengo"
+  },
+  {
+    "id": 103,
+    "question": "Qual jogador do São Paulo foi campeão mundial com a Seleção Brasileira em 1994?",
+    "options": ["Raí", "Cafu", "Zetti", "Müller"],
+    "answer": "Cafu"
+  },
+  {
+    "id": 104,
+    "question": "Quem foi o artilheiro do São Paulo na Copa Libertadores de 1993?",
+    "options": ["Palhinha", "Raí", "Müller", "Toninho Cerezo"],
+    "answer": "Palhinha"
+  },
+  {
+    "id": 105,
+    "question": "Quantas vezes o São Paulo conquistou a Recopa Sul-Americana até 2023?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "2"
+  },
+  {
+    "id": 106,
+    "question": "Quem é o maior ídolo da torcida do São Paulo dos anos 2000?",
+    "options": ["Rogério Ceni", "Luis Fabiano", "Kaká", "Dagoberto"],
+    "answer": "Rogério Ceni"
+  },
+  {
+    "id": 107,
+    "question": "Qual foi o maior resultado do São Paulo na história do clássico contra o Corinthians?",
+    "options": ["6x1", "5x1", "7x2", "5x0"],
+    "answer": "6x1"
+  },
+  {
+    "id": 108,
+    "question": "Qual clube do estado de São Paulo é conhecido como 'Majestoso'?",
+    "options": ["Corinthians", "São Paulo", "Palmeiras", "Santos"],
+    "answer": "Corinthians"
+  },
+  {
+    "id": 109,
+    "question": "Qual jogador do São Paulo marcou gol na final do Mundial de Clubes de 2005?",
+    "options": ["Mineiro", "Rogério Ceni", "Luis Fabiano", "Richarlyson"],
+    "answer": "Mineiro"
+  },
+  {
+    "id": 110,
+    "question": "Quem foi o presidente do São Paulo durante a conquista do Mundial de 2005?",
+    "options": ["Juvenal Juvêncio", "Carlos Miguel Aidar", "Paulo Amaral", "Mario Covas"],
+    "answer": "Juvenal Juvêncio"
+  }
+],
+"corinthians": [
+  {
+    "id": 111,
+    "question": "Em que ano o Corinthians foi fundado?",
+    "options": ["1910", "1908", "1920", "1900"],
+    "answer": "1910"
+  },
+  {
+    "id": 112,
+    "question": "Qual é o apelido mais famoso do Corinthians?",
+    "options": ["Timão", "Fiel", "Alvinegro", "Corinthianos"],
+    "answer": "Timão"
+  },
+  {
+    "id": 113,
+    "question": "Quantas vezes o Corinthians venceu a Copa Libertadores até 2023?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "id": 114,
+    "question": "Quem foi o maior ídolo e camisa 10 do Corinthians na década de 1990?",
+    "options": ["Ronaldo Fenômeno", "Sócrates", "Neto", "Casagrande"],
+    "answer": "Neto"
+  },
+  {
+    "id": 115,
+    "question": "Qual estádio é o mando oficial do Corinthians?",
+    "options": ["Arena Corinthians", "Pacaembu", "Morumbi", "Allianz Parque"],
+    "answer": "Arena Corinthians"
+  },
+  {
+    "id": 116,
+    "question": "Quantos títulos brasileiros o Corinthians possui até 2023?",
+    "options": ["7", "6", "5", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 117,
+    "question": "Quem foi o técnico campeão da Libertadores e Mundial pelo Corinthians em 2012?",
+    "options": ["Tite", "Mano Menezes", "Felipe Scolari", "Luxemburgo"],
+    "answer": "Tite"
+  },
+  {
+    "id": 118,
+    "question": "Qual jogador corintiano foi eleito melhor do mundo pela FIFA em 2006?",
+    "options": ["Ronaldo Fenômeno", "Kaká", "Neymar", "Rivaldo"],
+    "answer": "Kaká"
+  },
+  {
+    "id": 119,
+    "question": "Quantas vezes o Corinthians venceu o Mundial de Clubes FIFA até 2023?",
+    "options": ["2", "1", "3", "0"],
+    "answer": "2"
+  },
+  {
+    "id": 120,
+    "question": "Qual é o maior rival histórico do Corinthians?",
+    "options": ["Palmeiras", "São Paulo", "Santos", "Flamengo"],
+    "answer": "Palmeiras"
+  },
+  {
+    "id": 121,
+    "question": "Quem é o maior artilheiro da história do Corinthians?",
+    "options": ["Cláudio", "Marcelinho Carioca", "Teleco", "Luizinho"],
+    "answer": "Cláudio"
+  },
+  {
+    "id": 122,
+    "question": "Qual é o nome da torcida organizada mais famosa do Corinthians?",
+    "options": ["Gaviões da Fiel", "Mancha Verde", "Torcida Jovem", "Raça Rubro-Negra"],
+    "answer": "Gaviões da Fiel"
+  },
+  {
+    "id": 123,
+    "question": "Qual jogador do Corinthians marcou gol na final do Mundial de Clubes de 2012?",
+    "options": ["Paulinho", "Jorge Henrique", "Danilo", "Romarinho"],
+    "answer": "Romarinho"
+  },
+  {
+    "id": 124,
+    "question": "Qual goleiro é ídolo e símbolo do Corinthians?",
+    "options": ["Cássio", "Rogério Ceni", "Marcos", "Felipe"],
+    "answer": "Cássio"
+  },
+  {
+    "id": 125,
+    "question": "Qual o maior título conquistado pelo Corinthians na década de 2010?",
+    "options": ["Libertadores", "Brasileirão", "Mundial de Clubes", "Copa do Brasil"],
+    "answer": "Libertadores"
+  },
+  {
+    "id": 126,
+    "question": "Quantos títulos estaduais o Corinthians possui até 2023?",
+    "options": ["30", "29", "31", "28"],
+    "answer": "30"
+  },
+  {
+    "id": 127,
+    "question": "Quem foi o técnico responsável pelos títulos do Corinthians no início dos anos 2010?",
+    "options": ["Tite", "Felipe Scolari", "Mano Menezes", "Luxemburgo"],
+    "answer": "Tite"
+  },
+  {
+    "id": 128,
+    "question": "Qual foi o maior artilheiro do Corinthians na temporada 2023?",
+    "options": ["Róger Guedes", "Jô", "Gustavo Mosquito", "Gustavo Mantuan"],
+    "answer": "Róger Guedes"
+  },
+  {
+    "id": 129,
+    "question": "Qual é o nome do mascote do Corinthians?",
+    "options": ["Mosqueteiro", "Timão", "Corinthiano", "Alvinegro"],
+    "answer": "Mosqueteiro"
+  },
+  {
+    "id": 130,
+    "question": "Quantas vezes o Corinthians foi campeão da Copa do Brasil até 2023?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "3"
+  },
+  {
+    "id": 131,
+    "question": "Qual foi o maior resultado do Corinthians na história do clássico contra o Palmeiras?",
+    "options": ["6x1", "5x1", "7x2", "5x0"],
+    "answer": "6x1"
+  },
+  {
+    "id": 132,
+    "question": "Quem foi o maior ídolo do Corinthians nos anos 80?",
+    "options": ["Sócrates", "Marcelinho Carioca", "Casagrande", "Neto"],
+    "answer": "Sócrates"
+  },
+  {
+    "id": 133,
+    "question": "Qual jogador do Corinthians foi campeão mundial com a Seleção Brasileira em 1994?",
+    "options": ["Ronaldo Fenômeno", "Cafu", "Dunga", "Zé Maria"],
+    "answer": "Cafu"
+  },
+  {
+    "id": 134,
+    "question": "Qual jogador do Corinthians marcou o gol do título brasileiro em 2017?",
+    "options": ["Jô", "Balbuena", "Rodriguinho", "Fagner"],
+    "answer": "Jô"
+  },
+  {
+    "id": 135,
+    "question": "Quem foi o presidente do Corinthians durante a conquista da Libertadores em 2012?",
+    "options": ["Mario Gobbi", "Andrés Sanchez", "Roberto de Andrade", "Paulo Garcia"],
+    "answer": "Mario Gobbi"
+  },
+  {
+    "id": 136,
+    "question": "Qual clube paulista é conhecido como 'Majestoso'?",
+    "options": ["Corinthians", "São Paulo", "Palmeiras", "Santos"],
+    "answer": "Corinthians"
+  },
+  {
+    "id": 137,
+    "question": "Quem foi o maior artilheiro da história do futebol brasileiro em clubes do Corinthians?",
+    "options": ["Cláudio", "Pelé", "Romário", "Neymar"],
+    "answer": "Cláudio"
+  },
+  {
+    "id": 138,
+    "question": "Qual é a cor predominante do uniforme do Corinthians?",
+    "options": ["Preto e branco", "Azul e branco", "Vermelho e preto", "Verde e branco"],
+    "answer": "Preto e branco"
+  },
+  {
+    "id": 139,
+    "question": "Quem foi o técnico do Corinthians na conquista do Mundial de Clubes de 2012?",
+    "options": ["Tite", "Felipe Scolari", "Mano Menezes", "Luxemburgo"],
+    "answer": "Tite"
+  },
+  {
+    "id": 140,
+    "question": "Qual é o nome da principal torcida organizada do Corinthians?",
+    "options": ["Gaviões da Fiel", "Mancha Verde", "Torcida Jovem", "Raça Rubro-Negra"],
+    "answer": "Gaviões da Fiel"
+  }
+],
+"santos": [
+  {
+    "id": 141,
+    "question": "Em que ano o Santos Futebol Clube foi fundado?",
+    "options": ["1912", "1910", "1908", "1920"],
+    "answer": "1912"
+  },
+  {
+    "id": 142,
+    "question": "Qual é o apelido tradicional do Santos?",
+    "options": ["Peixe", "Alvinegro", "Furacão", "Tricolor"],
+    "answer": "Peixe"
+  },
+  {
+    "id": 143,
+    "question": "Quem é o maior ídolo da história do Santos?",
+    "options": ["Pelé", "Neymar", "Robinho", "Zito"],
+    "answer": "Pelé"
+  },
+  {
+    "id": 144,
+    "question": "Quantas vezes o Santos venceu a Copa Libertadores até 2023?",
+    "options": ["3", "2", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 145,
+    "question": "Qual estádio é o mando oficial do Santos?",
+    "options": ["Vila Belmiro", "Morumbi", "Pacaembu", "Allianz Parque"],
+    "answer": "Vila Belmiro"
+  },
+  {
+    "id": 146,
+    "question": "Quem foi o técnico responsável pela era de ouro do Santos nos anos 60?",
+    "options": ["Lula", "Telê Santana", "Muricy Ramalho", "Luiz Alonso"],
+    "answer": "Lula"
+  },
+  {
+    "id": 147,
+    "question": "Qual jogador do Santos é conhecido como 'Dinamite'?",
+    "options": ["Robinho", "Neymar", "Zito", "Pelé"],
+    "answer": "Robinho"
+  },
+  {
+    "id": 148,
+    "question": "Quantos títulos brasileiros o Santos possui até 2023?",
+    "options": ["8", "7", "9", "6"],
+    "answer": "8"
+  },
+  {
+    "id": 149,
+    "question": "Qual jogador do Santos foi vendido ao Barcelona em 2013?",
+    "options": ["Neymar", "Robinho", "Gabriel Barbosa", "Rodrygo"],
+    "answer": "Neymar"
+  },
+  {
+    "id": 150,
+    "question": "Quem foi o artilheiro do Santos na temporada 2023?",
+    "options": ["Marinho", "Marcos Leonardo", "Gabriel Barbosa", "Rodrygo"],
+    "answer": "Marinho"
+  },
+  {
+    "id": 151,
+    "question": "Qual é o maior clássico do Santos?",
+    "options": ["San-São (Santos x São Paulo)", "Santos x Palmeiras", "Santos x Corinthians", "Santos x Flamengo"],
+    "answer": "San-São (Santos x São Paulo)"
+  },
+  {
+    "id": 152,
+    "question": "Quem é o maior artilheiro da história do Santos?",
+    "options": ["Pelé", "Robinho", "Toninho Cerezo", "Pepe"],
+    "answer": "Pelé"
+  },
+  {
+    "id": 153,
+    "question": "Qual jogador do Santos é conhecido como 'Menino da Vila'?",
+    "options": ["Neymar", "Rodrygo", "Pelé", "Robinho"],
+    "answer": "Neymar"
+  },
+  {
+    "id": 154,
+    "question": "Qual foi o maior título conquistado pelo Santos em âmbito internacional?",
+    "options": ["Copa Libertadores", "Mundial de Clubes", "Recopa Sul-Americana", "Copa Sul-Americana"],
+    "answer": "Copa Libertadores"
+  },
+  {
+    "id": 155,
+    "question": "Quem foi o técnico do Santos na conquista do Campeonato Brasileiro de 2002?",
+    "options": ["Lula", "Telê Santana", "Muricy Ramalho", "Paulo Autuori"],
+    "answer": "Paulo Autuori"
+  },
+  {
+    "id": 156,
+    "question": "Qual é o nome da torcida organizada mais famosa do Santos?",
+    "options": ["Torcida Jovem", "Gaviões da Fiel", "Mancha Verde", "Raça Rubro-Negra"],
+    "answer": "Torcida Jovem"
+  },
+  {
+    "id": 157,
+    "question": "Quem é o maior artilheiro do Campeonato Paulista jogando pelo Santos?",
+    "options": ["Pelé", "Neymar", "Coutinho", "Pepe"],
+    "answer": "Pelé"
+  },
+  {
+    "id": 158,
+    "question": "Qual foi o maior resultado do Santos na história do clássico contra o Corinthians?",
+    "options": ["7x1", "6x1", "5x0", "4x1"],
+    "answer": "7x1"
+  },
+  {
+    "id": 159,
+    "question": "Qual jogador do Santos conquistou a Bola de Ouro da FIFA em 2007?",
+    "options": ["Neymar", "Robinho", "Kaká", "Pelé"],
+    "answer": "Kaká"
+  },
+  {
+    "id": 160,
+    "question": "Quem é o maior ídolo da história do Santos nos anos 80?",
+    "options": ["Jorginho", "Paulinho", "Müller", "Robinho"],
+    "answer": "Jorginho"
+  },
+  {
+    "id": 161,
+    "question": "Qual clube do litoral paulista é conhecido como 'Peixe'?",
+    "options": ["Santos", "São Paulo", "Palmeiras", "Corinthians"],
+    "answer": "Santos"
+  },
+  {
+    "id": 162,
+    "question": "Qual jogador do Santos atuou na seleção brasileira e foi campeão mundial em 1994?",
+    "options": ["Cafu", "Pelé", "Robinho", "Marcelinho"],
+    "answer": "Cafu"
+  },
+  {
+    "id": 163,
+    "question": "Qual foi o maior técnico da história do Santos FC?",
+    "options": ["Telê Santana", "Muricy Ramalho", "Lula", "Paulo Autuori"],
+    "answer": "Telê Santana"
+  },
+  {
+    "id": 164,
+    "question": "Quantos títulos estaduais o Santos possui até 2023?",
+    "options": ["22", "21", "20", "23"],
+    "answer": "22"
+  },
+  {
+    "id": 165,
+    "question": "Quem foi o maior artilheiro do Santos na temporada 2022?",
+    "options": ["Marinho", "Marcos Leonardo", "Gabriel Barbosa", "Rodrygo"],
+    "answer": "Marinho"
+  },
+  {
+    "id": 166,
+    "question": "Qual o clube que revelou Pelé?",
+    "options": ["Santos", "São Paulo", "Palmeiras", "Corinthians"],
+    "answer": "Santos"
+  },
+  {
+    "id": 167,
+    "question": "Quem foi o técnico do Santos na conquista da Copa Libertadores em 1962?",
+    "options": ["Lula", "Telê Santana", "Muricy Ramalho", "Paulo Autuori"],
+    "answer": "Lula"
+  },
+  {
+    "id": 168,
+    "question": "Qual jogador do Santos é conhecido por sua habilidade e velocidade, apelidado de 'Neymar'?",
+    "options": ["Neymar", "Robinho", "Rodrygo", "Gabriel Barbosa"],
+    "answer": "Neymar"
+  },
+  {
+    "id": 169,
+    "question": "Quantos títulos da Copa do Brasil o Santos conquistou até 2023?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "1"
+  },
+  {
+    "id": 170,
+    "question": "Quem foi o maior ídolo do Santos na década de 2000?",
+    "options": ["Robinho", "Neymar", "Zito", "Pelé"],
+    "answer": "Robinho"
+  }
+],
+"flamengo": [
+  {
+    "id": 171,
+    "question": "Em que ano o Flamengo foi fundado?",
+    "options": ["1895", "1902", "1911", "1920"],
+    "answer": "1895"
+  },
+  {
+    "id": 172,
+    "question": "Qual é o maior estádio que o Flamengo utiliza como mando de campo?",
+    "options": ["Maracanã", "Engenhão", "Pacaembu", "Morumbi"],
+    "answer": "Maracanã"
+  },
+  {
+    "id": 173,
+    "question": "Quantas vezes o Flamengo venceu a Copa Libertadores até 2023?",
+    "options": ["3", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "id": 174,
+    "question": "Quem é o maior artilheiro da história do Flamengo?",
+    "options": ["Zico", "Gabigol", "Júnior", "Adriano"],
+    "answer": "Zico"
+  },
+  {
+    "id": 175,
+    "question": "Qual foi o ano em que o Flamengo conquistou o Mundial de Clubes pela primeira vez?",
+    "options": ["1981", "2019", "2009", "1995"],
+    "answer": "1981"
+  },
+  {
+    "id": 176,
+    "question": "Quem foi o técnico campeão da Libertadores de 2019 com o Flamengo?",
+    "options": ["Jorge Jesus", "Abel Braga", "Carpegiani", "Mano Menezes"],
+    "answer": "Jorge Jesus"
+  },
+  {
+    "id": 177,
+    "question": "Qual jogador marcou dois gols na final da Libertadores de 2019?",
+    "options": ["Gabigol", "Éverton Ribeiro", "Arrascaeta", "Bruno Henrique"],
+    "answer": "Gabigol"
+  },
+  {
+    "id": 178,
+    "question": "Qual é o mascote oficial do Flamengo?",
+    "options": ["Urubu", "Leão", "Galo", "Raposa"],
+    "answer": "Urubu"
+  },
+  {
+    "id": 179,
+    "question": "Quem foi o maior ídolo e camisa 10 do Flamengo nos anos 80?",
+    "options": ["Zico", "Júnior", "Adílio", "Leandro"],
+    "answer": "Zico"
+  },
+  {
+    "id": 180,
+    "question": "Quantos títulos brasileiros o Flamengo possui até 2023?",
+    "options": ["8", "7", "9", "6"],
+    "answer": "8"
+  },
+  {
+    "id": 181,
+    "question": "Qual é o apelido carinhoso da torcida do Flamengo?",
+    "options": ["Nação Rubro-Negra", "Torcida Fiel", "Mancha Verde", "Raça Rubro-Negra"],
+    "answer": "Nação Rubro-Negra"
+  },
+  {
+    "id": 182,
+    "question": "Quem é o maior artilheiro recente do Flamengo até 2023?",
+    "options": ["Gabigol", "Éverton Ribeiro", "Arrascaeta", "Diego"],
+    "answer": "Gabigol"
+  },
+  {
+    "id": 183,
+    "question": "Qual o nome da torcida organizada mais famosa do Flamengo?",
+    "options": ["Raça Rubro-Negra", "Gaviões da Fiel", "Torcida Jovem", "Mancha Verde"],
+    "answer": "Raça Rubro-Negra"
+  },
+  {
+    "id": 184,
+    "question": "Qual clube é maior rival histórico do Flamengo no Rio de Janeiro?",
+    "options": ["Vasco da Gama", "Fluminense", "Botafogo", "Flamengo não tem rival"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "id": 185,
+    "question": "Quem foi o técnico do Flamengo na conquista do Brasileirão 2020?",
+    "options": ["Rogério Ceni", "Jorge Jesus", "Abel Braga", "Renato Gaúcho"],
+    "answer": "Rogério Ceni"
+  },
+  {
+    "id": 186,
+    "question": "Quantas vezes o Flamengo foi rebaixado para a segunda divisão?",
+    "options": ["Nenhuma", "1", "2", "3"],
+    "answer": "Nenhuma"
+  },
+  {
+    "id": 187,
+    "question": "Quem foi o goleiro titular do Flamengo nos anos 80?",
+    "options": ["Raul Plassmann", "Zetti", "Felipe", "Diego Alves"],
+    "answer": "Raul Plassmann"
+  },
+  {
+    "id": 188,
+    "question": "Qual é o clássico entre Flamengo e Fluminense conhecido popularmente como?",
+    "options": ["Fla-Flu", "Fla-Vasco", "Flu-Vasco", "Botafogo-Flamengo"],
+    "answer": "Fla-Flu"
+  },
+  {
+    "id": 189,
+    "question": "Qual jogador foi apelidado de Imperador no Flamengo?",
+    "options": ["Adriano", "Gabigol", "Zico", "Romário"],
+    "answer": "Adriano"
+  },
+  {
+    "id": 190,
+    "question": "Quem foi o treinador que mais títulos conquistou pelo Flamengo?",
+    "options": ["Carlinhos", "Jorge Jesus", "Cláudio Coutinho", "Telê Santana"],
+    "answer": "Jorge Jesus"
+  },
+  {
+    "id": 191,
+    "question": "Qual foi o adversário do Flamengo na final da Libertadores de 1981?",
+    "options": ["Cobreloa (Chile)", "Peñarol (Uruguai)", "Boca Juniors (Argentina)", "Atlético Nacional (Colômbia)"],
+    "answer": "Cobreloa (Chile)"
+  },
+  {
+    "id": 192,
+    "question": "Quem foi o artilheiro do Flamengo na temporada 2022?",
+    "options": ["Gabigol", "Pedro", "Éverton Ribeiro", "Arrascaeta"],
+    "answer": "Gabigol"
+  },
+  {
+    "id": 193,
+    "question": "Qual foi o título internacional conquistado pelo Flamengo em 1981?",
+    "options": ["Mundial de Clubes", "Copa Libertadores", "Copa Sul-Americana", "Recopa Sul-Americana"],
+    "answer": "Mundial de Clubes"
+  },
+  {
+    "id": 194,
+    "question": "Quem foi o técnico do Flamengo em 2024?",
+    "options": ["Tite", "Jorge Jesus", "Rogério Ceni", "Abel Braga"],
+    "answer": "Tite"
+  },
+  {
+    "id": 195,
+    "question": "Qual jogador chileno atuou no Flamengo em 2022?",
+    "options": ["Pulgar", "Aránguiz", "Vidal", "Medel"],
+    "answer": "Pulgar"
+  },
+  {
+    "id": 196,
+    "question": "Quantos gols Gabigol marcou na Libertadores de 2019?",
+    "options": ["9", "7", "10", "8"],
+    "answer": "9"
+  },
+  {
+    "id": 197,
+    "question": "Qual foi o maior placar do Flamengo na história do clássico contra o Vasco?",
+    "options": ["6x0", "5x0", "7x1", "4x0"],
+    "answer": "6x0"
+  },
+  {
+    "id": 198,
+    "question": "Quem é conhecido como o maior ídolo do Flamengo na era moderna?",
+    "options": ["Zico", "Gabigol", "Júnior", "Adriano"],
+    "answer": "Zico"
+  },
+  {
+    "id": 199,
+    "question": "Qual é a cor predominante do uniforme do Flamengo?",
+    "options": ["Vermelho e preto", "Preto e branco", "Azul e branco", "Verde e branco"],
+    "answer": "Vermelho e preto"
+  },
+  {
+    "id": 200,
+    "question": "Qual a maior torcida organizada do Flamengo?",
+    "options": ["Raça Rubro-Negra", "Gaviões da Fiel", "Mancha Verde", "Torcida Jovem"],
+    "answer": "Raça Rubro-Negra"
+  }
+],
+"fluminense": [
+  {
+    "id": 201,
+    "question": "Em que ano o Fluminense foi fundado?",
+    "options": ["1902", "1895", "1910", "1920"],
+    "answer": "1902"
+  },
+  {
+    "id": 202,
+    "question": "Qual o apelido do Fluminense?",
+    "options": ["Tricolor das Laranjeiras", "Furacão", "Verdão", "Leão"],
+    "answer": "Tricolor das Laranjeiras"
+  },
+  {
+    "id": 203,
+    "question": "Quem é o maior artilheiro da história do Fluminense?",
+    "options": ["Fred", "Rivelino", "Germán Cano", "Conca"],
+    "answer": "Fred"
+  },
+  {
+    "id": 204,
+    "question": "Em que estádio o Fluminense manda seus jogos?",
+    "options": ["Maracanã", "Engenhão", "Laranjeiras", "São Januário"],
+    "answer": "Maracanã"
+  },
+  {
+    "id": 205,
+    "question": "Quantos títulos brasileiros o Fluminense possui?",
+    "options": ["4", "3", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 206,
+    "question": "Quem foi o técnico campeão da Libertadores de 2023 pelo Fluminense?",
+    "options": ["Fernando Diniz", "Abel Braga", "Renato Gaúcho", "Marcelo Oliveira"],
+    "answer": "Fernando Diniz"
+  },
+  {
+    "id": 207,
+    "question": "Quem é o artilheiro recente do Fluminense?",
+    "options": ["Germán Cano", "Fred", "Conca", "Walter"],
+    "answer": "Germán Cano"
+  },
+  {
+    "id": 208,
+    "question": "Qual o nome da torcida organizada do Fluminense?",
+    "options": ["Young Flu", "Raça Rubro-Negra", "Gaviões da Fiel", "Torcida Jovem"],
+    "answer": "Young Flu"
+  },
+  {
+    "id": 209,
+    "question": "Quem é conhecido como o Gênio Tricolor?",
+    "options": ["Rivelino", "Fred", "Thiago Neves", "Conca"],
+    "answer": "Rivelino"
+  },
+  {
+    "id": 210,
+    "question": "Qual é o clássico entre Fluminense e Botafogo conhecido como?",
+    "options": ["Vovô", "Fla-Flu", "Clássico dos Milhões", "Clássico Vovô"],
+    "answer": "Vovô"
+  },
+  {
+    "id": 211,
+    "question": "Qual foi o maior ídolo do Fluminense nos anos 2000?",
+    "options": ["Fred", "Thiago Silva", "Germán Cano", "Conca"],
+    "answer": "Fred"
+  },
+  {
+    "id": 212,
+    "question": "Qual foi o vice da Libertadores de 2008 pelo Fluminense?",
+    "options": ["LDU", "Boca Juniors", "River Plate", "Atlético Nacional"],
+    "answer": "LDU"
+  },
+  {
+    "id": 213,
+    "question": "Em que ano o Fluminense venceu o Brasileirão pela última vez?",
+    "options": ["2012", "2010", "2014", "2016"],
+    "answer": "2012"
+  },
+  {
+    "id": 214,
+    "question": "Quem foi o técnico do Fluminense na conquista do Brasileirão de 2012?",
+    "options": ["Abel Braga", "Felipe Scolari", "Renato Gaúcho", "Marcelo Oliveira"],
+    "answer": "Abel Braga"
+  },
+  {
+    "id": 215,
+    "question": "Qual é o mascote oficial do Fluminense?",
+    "options": ["Guerreiro", "Leão", "Urubu", "Águia"],
+    "answer": "Guerreiro"
+  },
+  {
+    "id": 216,
+    "question": "Quem é conhecido como o maestro do Fluminense em 2023?",
+    "options": ["Paulo Henrique Ganso", "Fred", "Germán Cano", "Thiago Neves"],
+    "answer": "Paulo Henrique Ganso"
+  },
+  {
+    "id": 217,
+    "question": "Quantos títulos estaduais o Fluminense possui até 2023?",
+    "options": ["31", "30", "28", "35"],
+    "answer": "31"
+  },
+  {
+    "id": 218,
+    "question": "Qual time o Fluminense enfrentou na semifinal da Libertadores de 2023?",
+    "options": ["Internacional", "Palmeiras", "Flamengo", "Atlético Mineiro"],
+    "answer": "Internacional"
+  },
+  {
+    "id": 219,
+    "question": "Quem marcou o gol contra o Internacional na semifinal da Libertadores 2023?",
+    "options": ["Germán Cano", "Fred", "Paulo Henrique Ganso", "Lucca"],
+    "answer": "Germán Cano"
+  },
+  {
+    "id": 220,
+    "question": "Qual ídolo do Fluminense também atuou pelo Palmeiras?",
+    "options": ["Dudu", "Fred", "Thiago Silva", "Germán Cano"],
+    "answer": "Dudu"
+  },
+  {
+    "id": 221,
+    "question": "Quem foi o goleiro histórico do Fluminense que também atuou na seleção brasileira?",
+    "options": ["Castilho", "Felipe", "Renan", "Alberto"],
+    "answer": "Castilho"
+  },
+  {
+    "id": 222,
+    "question": "Qual é o nome da sede social do Fluminense?",
+    "options": ["Laranjeiras", "Maracanã", "São Januário", "Engenhão"],
+    "answer": "Laranjeiras"
+  },
+  {
+    "id": 223,
+    "question": "Qual era o principal rival do Fluminense nos anos 30?",
+    "options": ["Botafogo", "Flamengo", "Vasco", "America"],
+    "answer": "Botafogo"
+  },
+  {
+    "id": 224,
+    "question": "Qual jogador do Fluminense foi campeão mundial pela seleção em 2002?",
+    "options": ["Edílson", "Fred", "Thiago Silva", "Germán Cano"],
+    "answer": "Edílson"
+  },
+  {
+    "id": 225,
+    "question": "Quem era o presidente do Fluminense na conquista da Libertadores de 2023?",
+    "options": ["Mário Bittencourt", "Peter Siemsen", "Abel Braga", "Fernando Diniz"],
+    "answer": "Mário Bittencourt"
+  },
+  {
+    "id": 226,
+    "question": "Quem foi o zagueiro titular do Fluminense na final da Libertadores de 2023?",
+    "options": ["Nino", "Marcos Felipe", "Luccas Claro", "Germán Cano"],
+    "answer": "Nino"
+  },
+  {
+    "id": 227,
+    "question": "Qual jogador é conhecido como o 'Gênio Tricolor'?",
+    "options": ["Rivelino", "Fred", "Ganso", "Thiago Neves"],
+    "answer": "Rivelino"
+  },
+  {
+    "id": 228,
+    "question": "Qual foi a maior sequência invicta do Fluminense no Brasileirão?",
+    "options": ["10 jogos", "8 jogos", "12 jogos", "15 jogos"],
+    "answer": "10 jogos"
+  },
+  {
+    "id": 229,
+    "question": "Qual técnico comandou o Fluminense no início dos anos 2000?",
+    "options": ["Felipe Scolari", "Abel Braga", "Renato Gaúcho", "Joel Santana"],
+    "answer": "Felipe Scolari"
+  },
+  {
+    "id": 230,
+    "question": "Qual foi a cor predominante do uniforme do Fluminense tradicional?",
+    "options": ["Verde, branco e grená", "Azul, branco e vermelho", "Preto e branco", "Vermelho e preto"],
+    "answer": "Verde, branco e grená"
+  }
+],
+"vasco": [
+  {
+    "id": 231,
+    "question": "Em que ano o Vasco da Gama foi fundado?",
+    "options": ["1898", "1900", "1912", "1923"],
+    "answer": "1898"
+  },
+  {
+    "id": 232,
+    "question": "Qual é o apelido carinhoso do Vasco?",
+    "options": ["Gigante da Colina", "Leão da Ilha", "Furacão", "Verdão"],
+    "answer": "Gigante da Colina"
+  },
+  {
+    "id": 233,
+    "question": "Qual é o nome do estádio do Vasco?",
+    "options": ["São Januário", "Maracanã", "Engenhão", "Laranjeiras"],
+    "answer": "São Januário"
+  },
+  {
+    "id": 234,
+    "question": "Quem é o maior artilheiro da história do Vasco?",
+    "options": ["Roberto Dinamite", "Romário", "Juninho Pernambucano", "Edmundo"],
+    "answer": "Roberto Dinamite"
+  },
+  {
+    "id": 235,
+    "question": "Quantos títulos brasileiros o Vasco possui até 2023?",
+    "options": ["4", "3", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 236,
+    "question": "Qual foi o técnico campeão brasileiro pelo Vasco em 1997?",
+    "options": ["Antônio Lopes", "Joel Santana", "Carlos Alberto Parreira", "Muricy Ramalho"],
+    "answer": "Antônio Lopes"
+  },
+  {
+    "id": 237,
+    "question": "Quem foi o jogador conhecido como 'Animal' no Vasco?",
+    "options": ["Edmundo", "Romário", "Juninho Pernambucano", "Bebeto"],
+    "answer": "Edmundo"
+  },
+  {
+    "id": 238,
+    "question": "Qual é a principal torcida organizada do Vasco?",
+    "options": ["Força Jovem", "Raça Rubro-Negra", "Gaviões da Fiel", "Torcida Jovem"],
+    "answer": "Força Jovem"
+  },
+  {
+    "id": 239,
+    "question": "Qual foi o ano da conquista da Copa Libertadores pelo Vasco?",
+    "options": ["1998", "2000", "1997", "1996"],
+    "answer": "1998"
+  },
+  {
+    "id": 240,
+    "question": "Quem foi o técnico do Vasco na conquista da Libertadores de 1998?",
+    "options": ["Antônio Lopes", "Joel Santana", "Carlos Alberto Parreira", "Muricy Ramalho"],
+    "answer": "Antônio Lopes"
+  },
+  {
+    "id": 241,
+    "question": "Qual jogador do Vasco foi campeão mundial pela seleção brasileira em 1994?",
+    "options": ["Bebeto", "Romário", "Juninho Pernambucano", "Edmundo"],
+    "answer": "Bebeto"
+  },
+  {
+    "id": 242,
+    "question": "Quem foi o presidente do Vasco na década de 90 durante a era de conquistas?",
+    "options": ["Roberto Dinamite", "Eurico Miranda", "Antônio Soares Calçada", "Pedro Rodrigues"],
+    "answer": "Eurico Miranda"
+  },
+  {
+    "id": 243,
+    "question": "Qual é o símbolo presente no escudo do Vasco?",
+    "options": ["Cruz de Malta", "Águia", "Estrela", "Leão"],
+    "answer": "Cruz de Malta"
+  },
+  {
+    "id": 244,
+    "question": "Quantos títulos estaduais o Vasco possui até 2023?",
+    "options": ["24", "23", "20", "26"],
+    "answer": "24"
+  },
+  {
+    "id": 245,
+    "question": "Quem é o maior ídolo vascaíno dos anos 80 e 90?",
+    "options": ["Roberto Dinamite", "Romário", "Juninho Pernambucano", "Bebeto"],
+    "answer": "Roberto Dinamite"
+  },
+  {
+    "id": 246,
+    "question": "Qual foi o maior rival do Vasco na década de 90?",
+    "options": ["Flamengo", "Fluminense", "Botafogo", "Cruzeiro"],
+    "answer": "Flamengo"
+  },
+  {
+    "id": 247,
+    "question": "Quem é conhecido como o maior cobrador de faltas do Vasco?",
+    "options": ["Juninho Pernambucano", "Bebeto", "Romário", "Edmundo"],
+    "answer": "Juninho Pernambucano"
+  },
+  {
+    "id": 248,
+    "question": "Qual foi o placar do clássico entre Vasco e Flamengo no jogo histórico de 2001?",
+    "options": ["6x2 para o Vasco", "5x1 para o Flamengo", "3x0 para o Vasco", "4x4 empate"],
+    "answer": "6x2 para o Vasco"
+  },
+  {
+    "id": 249,
+    "question": "Qual jogador vascaíno ficou conhecido como 'Pantera'?",
+    "options": ["Edmundo", "Romário", "Bebeto", "Roberto Dinamite"],
+    "answer": "Edmundo"
+  },
+  {
+    "id": 250,
+    "question": "Quem foi o artilheiro do Vasco na temporada 2022?",
+    "options": ["Germán Cano", "Rossi", "Andrey", "Riascos"],
+    "answer": "Germán Cano"
+  },
+  {
+    "id": 251,
+    "question": "Quantas vezes o Vasco foi rebaixado para a Série B do Brasileiro até 2023?",
+    "options": ["3", "2", "1", "Nenhuma"],
+    "answer": "3"
+  },
+  {
+    "id": 252,
+    "question": "Quem foi o goleiro titular do Vasco nos anos 90?",
+    "options": ["Acácio", "Helton", "Martín Silva", "Andrey"],
+    "answer": "Acácio"
+  },
+  {
+    "id": 253,
+    "question": "Qual é o nome do bairro onde está localizada a sede do Vasco?",
+    "options": ["São Januário", "Laranjeiras", "Engenho de Dentro", "Tijuca"],
+    "answer": "São Januário"
+  },
+  {
+    "id": 254,
+    "question": "Qual foi o primeiro título nacional do Vasco?",
+    "options": ["Campeonato Brasileiro de 1974", "Taça Brasil", "Copa do Brasil", "Campeonato Carioca"],
+    "answer": "Campeonato Brasileiro de 1974"
+  },
+  {
+    "id": 255,
+    "question": "Quem foi o técnico do Vasco na conquista do Campeonato Brasileiro de 1997?",
+    "options": ["Antônio Lopes", "Joel Santana", "Muricy Ramalho", "Técnico José"],
+    "answer": "Antônio Lopes"
+  },
+  {
+    "id": 256,
+    "question": "Qual o apelido da torcida organizada do Vasco conhecida pela sua paixão?",
+    "options": ["Força Jovem", "Raça Rubro-Negra", "Gaviões da Fiel", "Torcida Jovem"],
+    "answer": "Força Jovem"
+  },
+  {
+    "id": 257,
+    "question": "Qual jogador foi o maior artilheiro do Vasco na Libertadores de 1998?",
+    "options": ["Edmundo", "Romário", "Juninho Pernambucano", "Bebeto"],
+    "answer": "Edmundo"
+  },
+  {
+    "id": 258,
+    "question": "Quem foi o técnico campeão do Vasco na Copa do Brasil de 2011?",
+    "options": ["Marcelo Oliveira", "Abel Braga", "Antônio Lopes", "Joel Santana"],
+    "answer": "Marcelo Oliveira"
+  },
+  {
+    "id": 259,
+    "question": "Qual foi o clube que revelou Romário?",
+    "options": ["Vasco", "Flamengo", "Fluminense", "Botafogo"],
+    "answer": "Vasco"
+  },
+  {
+    "id": 260,
+    "question": "Quem é o maior jogador vascaíno da era moderna?",
+    "options": ["Juninho Pernambucano", "Romário", "Edmundo", "Roberto Dinamite"],
+    "answer": "Juninho Pernambucano"
+  }
+],
+"botafogo": [
+  {
+    "id": 261,
+    "question": "Em que ano o Botafogo foi fundado?",
+    "options": ["1904", "1894", "1910", "1920"],
+    "answer": "1904"
+  },
+  {
+    "id": 262,
+    "question": "Qual é o apelido do Botafogo?",
+    "options": ["Fogão", "Leão", "Galo", "Furacão"],
+    "answer": "Fogão"
+  },
+  {
+    "id": 263,
+    "question": "Qual é o nome do estádio tradicional do Botafogo?",
+    "options": ["Estádio Nilton Santos", "São Januário", "Maracanã", "Engenhão"],
+    "answer": "Estádio Nilton Santos"
+  },
+  {
+    "id": 264,
+    "question": "Quem é o maior artilheiro da história do Botafogo?",
+    "options": ["Heleno de Freitas", "Garrincha", "Neymar", "Quarentinha"],
+    "answer": "Quarentinha"
+  },
+  {
+    "id": 265,
+    "question": "Quantos títulos estaduais o Botafogo possui até 2023?",
+    "options": ["21", "18", "25", "15"],
+    "answer": "21"
+  },
+  {
+    "id": 266,
+    "question": "Quem foi o técnico campeão brasileiro com o Botafogo em 1995?",
+    "options": ["Carlinhos", "Paulo Autuori", "Joel Santana", "Renato Gaúcho"],
+    "answer": "Paulo Autuori"
+  },
+  {
+    "id": 267,
+    "question": "Qual jogador do Botafogo é conhecido como 'O Anjo das Pernas Tortas'?",
+    "options": ["Garrincha", "Heleno de Freitas", "Neymar", "Didi"],
+    "answer": "Garrincha"
+  },
+  {
+    "id": 268,
+    "question": "Qual é o mascote oficial do Botafogo?",
+    "options": ["Estrela Solitária", "Leão", "Urubu", "Águia"],
+    "answer": "Estrela Solitária"
+  },
+  {
+    "id": 269,
+    "question": "Quem foi o presidente do Botafogo durante os anos 90?",
+    "options": ["Carlos Augusto Montenegro", "Eurico Miranda", "Roberto Dinamite", "Mário Bittencourt"],
+    "answer": "Carlos Augusto Montenegro"
+  },
+  {
+    "id": 270,
+    "question": "Qual jogador do Botafogo marcou gols decisivos na Copa do Mundo de 1958?",
+    "options": ["Garrincha", "Didi", "Pelé", "Vavá"],
+    "answer": "Garrincha"
+  },
+  {
+    "id": 271,
+    "question": "Qual é o clássico entre Botafogo e Flamengo conhecido como?",
+    "options": ["Clássico da Rivalidade", "Fla-Flu", "Clássico Vovô", "Clássico dos Milhões"],
+    "answer": "Clássico da Rivalidade"
+  },
+  {
+    "id": 272,
+    "question": "Quem foi o maior ídolo do Botafogo nos anos 2000?",
+    "options": ["Joel", "Marcelo", "Seedorf", "Loco Abreu"],
+    "answer": "Loco Abreu"
+  },
+  {
+    "id": 273,
+    "question": "Qual foi o placar do clássico entre Botafogo e Vasco em 1997, final do Campeonato Carioca?",
+    "options": ["2x1 para o Botafogo", "3x0 para o Vasco", "1x1 empate", "4x2 para o Botafogo"],
+    "answer": "2x1 para o Botafogo"
+  },
+  {
+    "id": 274,
+    "question": "Quem é conhecido como o maior treinador da história do Botafogo?",
+    "options": ["Paulo Autuori", "Carlinhos", "Joel Santana", "Telê Santana"],
+    "answer": "Joel Santana"
+  },
+  {
+    "id": 275,
+    "question": "Quantas vezes o Botafogo foi campeão brasileiro da Série B até 2023?",
+    "options": ["3", "2", "1", "Nenhuma"],
+    "answer": "3"
+  },
+  {
+    "id": 276,
+    "question": "Qual foi o clube onde Garrincha iniciou sua carreira profissional?",
+    "options": ["Botafogo", "Flamengo", "Vasco", "Fluminense"],
+    "answer": "Botafogo"
+  },
+  {
+    "id": 277,
+    "question": "Quem foi o goleiro titular do Botafogo na década de 80?",
+    "options": ["Gérson", "Mazaropi", "Andrada", "Carlos"],
+    "answer": "Mazaropi"
+  },
+  {
+    "id": 278,
+    "question": "Qual jogador do Botafogo foi campeão mundial pela seleção brasileira em 1970?",
+    "options": ["Gérson", "Neymar", "Pelé", "Jairzinho"],
+    "answer": "Gérson"
+  },
+  {
+    "id": 279,
+    "question": "Qual é o nome da torcida organizada mais antiga do Botafogo?",
+    "options": ["Fúria Jovem", "Torcida Jovem", "Raça Rubro-Negra", "Força Jovem"],
+    "answer": "Fúria Jovem"
+  },
+  {
+    "id": 280,
+    "question": "Qual técnico comandou o Botafogo na conquista do Campeonato Carioca de 2018?",
+    "options": ["Rogério Ceni", "Renato Gaúcho", "Zé Ricardo", "Alfredo Sampaio"],
+    "answer": "Rogério Ceni"
+  },
+  {
+    "id": 281,
+    "question": "Qual foi o adversário do Botafogo na final do Campeonato Carioca de 2018?",
+    "options": ["Vasco", "Flamengo", "Fluminense", "Resende"],
+    "answer": "Vasco"
+  },
+  {
+    "id": 282,
+    "question": "Quem marcou o gol do título do Botafogo no Campeonato Carioca de 2018?",
+    "options": ["Luis Henrique", "Roger", "Joel Carli", "Erison"],
+    "answer": "Luis Henrique"
+  },
+  {
+    "id": 283,
+    "question": "Qual jogador do Botafogo foi eleito o melhor jogador da Série B em 2021?",
+    "options": ["Erison", "Luis Henrique", "Chay", "Kanu"],
+    "answer": "Erison"
+  },
+  {
+    "id": 284,
+    "question": "Quem é o maior artilheiro do Botafogo na Série A do Brasileirão?",
+    "options": ["Quarentinha", "Garrincha", "Jairzinho", "Joel"],
+    "answer": "Quarentinha"
+  },
+  {
+    "id": 285,
+    "question": "Qual jogador do Botafogo jogou pela seleção brasileira e participou da Copa do Mundo de 2014?",
+    "options": ["Seedorf", "Jefferson", "Loco Abreu", "Joel"],
+    "answer": "Jefferson"
+  },
+  {
+    "id": 286,
+    "question": "Qual é o apelido do estádio Nilton Santos?",
+    "options": ["Engenhão", "Maracanã", "São Januário", "Laranjeiras"],
+    "answer": "Engenhão"
+  },
+  {
+    "id": 287,
+    "question": "Qual foi o maior rival do Botafogo nos anos 70?",
+    "options": ["Flamengo", "Fluminense", "Vasco", "America"],
+    "answer": "Flamengo"
+  },
+  {
+    "id": 288,
+    "question": "Quem foi o maior técnico do Botafogo na década de 90?",
+    "options": ["Paulo Autuori", "Joel Santana", "Telê Santana", "Carlinhos"],
+    "answer": "Joel Santana"
+  },
+  {
+    "id": 289,
+    "question": "Qual jogador do Botafogo é conhecido por dribles desconcertantes e gols decisivos?",
+    "options": ["Garrincha", "Joel", "Loco Abreu", "Seedorf"],
+    "answer": "Garrincha"
+  },
+  {
+    "id": 290,
+    "question": "Qual foi o primeiro título brasileiro do Botafogo?",
+    "options": ["Campeonato Brasileiro de 1968", "Campeonato Carioca de 1961", "Taça Brasil de 1957", "Torneio Rio-São Paulo de 1962"],
+    "answer": "Taça Brasil de 1968"
+  }
+],
+"gremio": [
+  {
+    "id": 291,
+    "question": "Em que ano o Grêmio foi fundado?",
+    "options": ["1903", "1910", "1920", "1899"],
+    "answer": "1903"
+  },
+  {
+    "id": 292,
+    "question": "Qual é o apelido do Grêmio?",
+    "options": ["Tricolor Gaúcho", "Colorado", "Furacão", "Galo"],
+    "answer": "Tricolor Gaúcho"
+  },
+  {
+    "id": 293,
+    "question": "Qual é o nome do estádio do Grêmio?",
+    "options": ["Arena do Grêmio", "Beira-Rio", "Estádio Olímpico", "Maracanã"],
+    "answer": "Arena do Grêmio"
+  },
+  {
+    "id": 294,
+    "question": "Quem é o maior artilheiro da história do Grêmio?",
+    "options": ["Renato Gaúcho", "Hugo de León", "Everton", "André Lima"],
+    "answer": "Renato Gaúcho"
+  },
+  {
+    "id": 295,
+    "question": "Quantos títulos da Copa Libertadores o Grêmio possui?",
+    "options": ["3", "2", "1", "4"],
+    "answer": "3"
+  },
+  {
+    "id": 296,
+    "question": "Quem foi o técnico campeão da Libertadores de 2017 pelo Grêmio?",
+    "options": ["Renato Gaúcho", "Felipe Scolari", "Tite", "Mano Menezes"],
+    "answer": "Renato Gaúcho"
+  },
+  {
+    "id": 297,
+    "question": "Qual jogador é conhecido como o maior ídolo do Grêmio na década de 80?",
+    "options": ["Renato Gaúcho", "Everton", "Ronaldinho", "André Santos"],
+    "answer": "Renato Gaúcho"
+  },
+  {
+    "id": 298,
+    "question": "Qual é o clássico entre Grêmio e Internacional conhecido como?",
+    "options": ["Gre-Nal", "Grenal", "Fla-Flu", "Clássico dos Milhões"],
+    "answer": "Gre-Nal"
+  },
+  {
+    "id": 299,
+    "question": "Quem é o maior goleiro da história do Grêmio?",
+    "options": ["Danrlei", "Victor", "Cláudio Taffarel", "Marcelo Grohe"],
+    "answer": "Danrlei"
+  },
+  {
+    "id": 300,
+    "question": "Qual foi o ano da primeira conquista da Copa Libertadores pelo Grêmio?",
+    "options": ["1983", "1995", "2001", "1977"],
+    "answer": "1983"
+  },
+  {
+    "id": 301,
+    "question": "Quem marcou o gol do título da Libertadores em 1983 pelo Grêmio?",
+    "options": ["Renato Gaúcho", "Paulo Roberto", "Cuca", "André Catimba"],
+    "answer": "André Catimba"
+  },
+  {
+    "id": 302,
+    "question": "Quantos títulos brasileiros o Grêmio possui até 2023?",
+    "options": ["2", "3", "1", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 303,
+    "question": "Quem foi o técnico do Grêmio campeão brasileiro em 1981?",
+    "options": ["Valdir Espinosa", "Felipe Scolari", "Renato Gaúcho", "Luiz Felipe Scolari"],
+    "answer": "Valdir Espinosa"
+  },
+  {
+    "id": 304,
+    "question": "Qual jogador do Grêmio foi eleito o melhor da Copa do Mundo de Clubes de 2017?",
+    "options": ["Luan", "Arthur", "Pedro Geromel", "Ramiro"],
+    "answer": "Luan"
+  },
+  {
+    "id": 305,
+    "question": "Quem foi o capitão do Grêmio na conquista da Libertadores de 2017?",
+    "options": ["Pedro Geromel", "Maicon", "Luan", "Ramiro"],
+    "answer": "Pedro Geromel"
+  },
+  {
+    "id": 306,
+    "question": "Qual jogador do Grêmio atuou na seleção brasileira na Copa de 1994?",
+    "options": ["Dinho", "Renato Gaúcho", "Mauro Galvão", "Carlos Miguel"],
+    "answer": "Mauro Galvão"
+  },
+  {
+    "id": 307,
+    "question": "Qual é o nome do maior rival do Grêmio?",
+    "options": ["Internacional", "Juventude", "Caxias", "Pelotas"],
+    "answer": "Internacional"
+  },
+  {
+    "id": 308,
+    "question": "Quem é o maior artilheiro do Grêmio na Libertadores?",
+    "options": ["Renato Gaúcho", "Luan", "Éverton", "Paulo Nunes"],
+    "answer": "Renato Gaúcho"
+  },
+  {
+    "id": 309,
+    "question": "Qual jogador do Grêmio ficou famoso pelo drible chamado 'caneta'?",
+    "options": ["Everton", "Renato Gaúcho", "Douglas", "André Santos"],
+    "answer": "Everton"
+  },
+  {
+    "id": 310,
+    "question": "Quantas vezes o Grêmio foi campeão da Recopa Sul-Americana?",
+    "options": ["2", "1", "3", "Nenhuma"],
+    "answer": "2"
+  },
+  {
+    "id": 311,
+    "question": "Quem foi o presidente do Grêmio durante a conquista da Libertadores em 2017?",
+    "options": ["Romildo Bolzan Jr.", "Paulo Odone", "Fábio Koff", "José Luiz Runco"],
+    "answer": "Romildo Bolzan Jr."
+  },
+  {
+    "id": 312,
+    "question": "Qual foi o adversário do Grêmio na final da Libertadores de 2017?",
+    "options": ["Lanús", "River Plate", "Boca Juniors", "Flamengo"],
+    "answer": "Lanús"
+  },
+  {
+    "id": 313,
+    "question": "Qual é o apelido do estádio Arena do Grêmio?",
+    "options": ["Arenoso", "Grêmio Arena", "Tricolor Arena", "Arena"],
+    "answer": "Arena"
+  },
+  {
+    "id": 314,
+    "question": "Quem foi o treinador do Grêmio na campanha do título brasileiro de 1996?",
+    "options": ["Felipe Scolari", "Luiz Felipe Scolari", "Vanderlei Luxemburgo", "Tite"],
+    "answer": "Felipe Scolari"
+  },
+  {
+    "id": 315,
+    "question": "Qual jogador do Grêmio é conhecido pelo apelido 'Rei do Arrocha'?",
+    "options": ["André", "Everton", "Luan", "Ramiro"],
+    "answer": "Everton"
+  },
+  {
+    "id": 316,
+    "question": "Qual jogador do Grêmio foi destaque no Brasileirão de 2018?",
+    "options": ["Jael", "Diego Tardelli", "Paulo Miranda", "Luan"],
+    "answer": "Jael"
+  },
+  {
+    "id": 317,
+    "question": "Quem é o maior ídolo gremista dos anos 2000?",
+    "options": ["Luan", "Douglas", "Everton", "Rafael Sobis"],
+    "answer": "Luan"
+  },
+  {
+    "id": 318,
+    "question": "Qual jogador gremista participou da Copa do Mundo de 2018?",
+    "options": ["Pedro Geromel", "Luan", "Maicon", "Ramiro"],
+    "answer": "Pedro Geromel"
+  },
+  {
+    "id": 319,
+    "question": "Qual jogador do Grêmio ficou conhecido como 'André Santos'?",
+    "options": ["Atacante", "Zagueiro", "Volante", "Meio-campista"],
+    "answer": "Atacante"
+  },
+  {
+    "id": 320,
+    "question": "Qual é o nome do hino oficial do Grêmio?",
+    "options": ["Hino do Grêmio", "Hino Gaúcho", "Hino Tricolor", "Hino da Arena"],
+    "answer": "Hino do Grêmio"
+  }
+],
+"internacional": [
+  {
+    "id": 321,
+    "question": "Em que ano o Internacional foi fundado?",
+    "options": ["1909", "1910", "1899", "1920"],
+    "answer": "1909"
+  },
+  {
+    "id": 322,
+    "question": "Qual é o apelido do Internacional?",
+    "options": ["Colorado", "Tricolor", "Furacão", "Galo"],
+    "answer": "Colorado"
+  },
+  {
+    "id": 323,
+    "question": "Qual é o nome do estádio do Internacional?",
+    "options": ["Beira-Rio", "Arena do Grêmio", "Maracanã", "Engenhão"],
+    "answer": "Beira-Rio"
+  },
+  {
+    "id": 324,
+    "question": "Quantos títulos da Copa Libertadores o Internacional possui?",
+    "options": ["2", "3", "1", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 325,
+    "question": "Em que anos o Internacional conquistou a Copa Libertadores?",
+    "options": ["2006 e 2010", "1983 e 1995", "2005 e 2009", "2007 e 2011"],
+    "answer": "2006 e 2010"
+  },
+  {
+    "id": 326,
+    "question": "Quem foi o técnico do Internacional na conquista da Libertadores de 2006?",
+    "options": ["Abel Braga", "Renato Gaúcho", "Felipe Scolari", "Mano Menezes"],
+    "answer": "Abel Braga"
+  },
+  {
+    "id": 327,
+    "question": "Quem marcou o gol do título da Libertadores de 2010 pelo Internacional?",
+    "options": ["André Luis", "Alecsandro", "Taison", "Eduardo Sasha"],
+    "answer": "André Luis"
+  },
+  {
+    "id": 328,
+    "question": "Qual jogador é o maior artilheiro da história do Internacional?",
+    "options": ["Fernandão", "Alessandro", "Falcão", "Valdomiro"],
+    "answer": "Falcão"
+  },
+  {
+    "id": 329,
+    "question": "Quem foi o capitão do Internacional na conquista do Mundial de Clubes em 2006?",
+    "options": ["Fernandão", "Alex", "Clemer", "Falcão"],
+    "answer": "Fernandão"
+  },
+  {
+    "id": 330,
+    "question": "Quantos títulos brasileiros o Internacional tem até 2023?",
+    "options": ["3", "4", "2", "1"],
+    "answer": "3"
+  },
+  {
+    "id": 331,
+    "question": "Quem foi o técnico do Internacional campeão brasileiro em 1979?",
+    "options": ["Rubens Minelli", "Abel Braga", "Felipe Scolari", "Luiz Felipe Scolari"],
+    "answer": "Rubens Minelli"
+  },
+  {
+    "id": 332,
+    "question": "Qual o nome da torcida organizada do Internacional?",
+    "options": ["Geral do Inter", "Fúria Jovem", "Raça Rubro-Negra", "Força Jovem"],
+    "answer": "Geral do Inter"
+  },
+  {
+    "id": 333,
+    "question": "Qual jogador do Internacional foi eleito o melhor da Copa do Mundo de Clubes FIFA em 2006?",
+    "options": ["Fernandão", "André Luis", "Alex", "Clemer"],
+    "answer": "Fernandão"
+  },
+  {
+    "id": 334,
+    "question": "Qual é o maior rival do Internacional?",
+    "options": ["Grêmio", "Juventude", "Caxias", "Pelotas"],
+    "answer": "Grêmio"
+  },
+  {
+    "id": 335,
+    "question": "Quem é conhecido como o 'Rei de Copas' no Internacional?",
+    "options": ["Falcão", "Fernandão", "D'Alessandro", "Alex"],
+    "answer": "Falcão"
+  },
+  {
+    "id": 336,
+    "question": "Quem é o maior artilheiro do Internacional na Libertadores?",
+    "options": ["André Luis", "Fernandão", "D'Alessandro", "Alex"],
+    "answer": "André Luis"
+  },
+  {
+    "id": 337,
+    "question": "Quem foi o goleiro titular do Internacional na conquista da Libertadores de 2006?",
+    "options": ["Clemer", "Muriel", "Marcelo Lomba", "Danrlei"],
+    "answer": "Clemer"
+  },
+  {
+    "id": 338,
+    "question": "Quantas vezes o Internacional foi campeão do Campeonato Gaúcho até 2023?",
+    "options": ["45", "40", "35", "50"],
+    "answer": "45"
+  },
+  {
+    "id": 339,
+    "question": "Qual jogador do Internacional foi destaque na Copa do Mundo de 2014?",
+    "options": ["D'Alessandro", "Neymar", "Oscar", "Hulk"],
+    "answer": "D'Alessandro"
+  },
+  {
+    "id": 340,
+    "question": "Quem foi o treinador do Internacional na conquista do Mundial de Clubes de 2006?",
+    "options": ["Abel Braga", "Felipe Scolari", "Mano Menezes", "Luiz Felipe Scolari"],
+    "answer": "Abel Braga"
+  },
+  {
+    "id": 341,
+    "question": "Qual jogador do Internacional ficou conhecido pelo apelido de 'O Reizinho do Beira-Rio'?",
+    "options": ["Falcão", "Fernandão", "André Luis", "D'Alessandro"],
+    "answer": "Fernandão"
+  },
+  {
+    "id": 342,
+    "question": "Quem foi o maior presidente da história do Internacional?",
+    "options": ["Vitório Piffero", "Luiz Carlos Trabuco", "Fernando Carvalho", "Fernando Carvalho"],
+    "answer": "Fernando Carvalho"
+  },
+  {
+    "id": 343,
+    "question": "Qual jogador do Internacional é conhecido pelo apelido de 'El Mago'?",
+    "options": ["D'Alessandro", "Alex", "Fernandão", "Falcão"],
+    "answer": "D'Alessandro"
+  },
+  {
+    "id": 344,
+    "question": "Qual foi o primeiro título nacional do Internacional?",
+    "options": ["Campeonato Brasileiro de 1975", "Campeonato Brasileiro de 1979", "Copa do Brasil de 1992", "Taça Brasil"],
+    "answer": "Campeonato Brasileiro de 1975"
+  },
+  {
+    "id": 345,
+    "question": "Quem foi o artilheiro do Campeonato Brasileiro de 1975 pelo Internacional?",
+    "options": ["Figueroa", "Falcão", "Hugo de León", "Vandinho"],
+    "answer": "Figueroa"
+  },
+  {
+    "id": 346,
+    "question": "Qual jogador do Internacional foi campeão da Copa América com a seleção brasileira?",
+    "options": ["Falcão", "Fernandão", "Alex", "D'Alessandro"],
+    "answer": "Falcão"
+  },
+  {
+    "id": 347,
+    "question": "Qual jogador do Internacional atuou na seleção argentina?",
+    "options": ["D'Alessandro", "Alex", "Fernandão", "Falcão"],
+    "answer": "D'Alessandro"
+  },
+  {
+    "id": 348,
+    "question": "Quantas vezes o Internacional foi campeão da Recopa Sul-Americana?",
+    "options": ["1", "2", "3", "Nenhuma"],
+    "answer": "1"
+  },
+  {
+    "id": 349,
+    "question": "Quem marcou o gol do título da Copa do Brasil em 1992 pelo Internacional?",
+    "options": ["Ricardo Gomes", "Bira", "Müller", "Rivarola"],
+    "answer": "Bira"
+  },
+  {
+    "id": 350,
+    "question": "Qual foi o adversário do Internacional na final da Copa Libertadores de 2010?",
+    "options": ["Chivas Guadalajara", "Santos", "Flamengo", "River Plate"],
+    "answer": "Chivas Guadalajara"
+  }
+],
+"atletico_mg": [
+  {
+    "id": 351,
+    "question": "Em que ano o Atlético Mineiro foi fundado?",
+    "options": ["1908", "1910", "1902", "1899"],
+    "answer": "1908"
+  },
+  {
+    "id": 352,
+    "question": "Qual é o apelido do Atlético Mineiro?",
+    "options": ["Galo", "Coelho", "Raposa", "Leão"],
+    "answer": "Galo"
+  },
+  {
+    "id": 353,
+    "question": "Qual é o nome do estádio do Atlético Mineiro?",
+    "options": ["Mineirão", "Independência", "Beira-Rio", "Arena do Grêmio"],
+    "answer": "Mineirão"
+  },
+  {
+    "id": 354,
+    "question": "Quantos títulos da Copa Libertadores o Atlético Mineiro possui?",
+    "options": ["1", "2", "3", "Nenhum"],
+    "answer": "1"
+  },
+  {
+    "id": 355,
+    "question": "Em que ano o Atlético Mineiro conquistou a Copa Libertadores?",
+    "options": ["2013", "2015", "2017", "2011"],
+    "answer": "2013"
+  },
+  {
+    "id": 356,
+    "question": "Quem foi o técnico campeão da Libertadores pelo Atlético Mineiro em 2013?",
+    "options": ["Cuca", "Levir Culpi", "Marcelo Oliveira", "Tite"],
+    "answer": "Cuca"
+  },
+  {
+    "id": 357,
+    "question": "Quem foi o artilheiro do Atlético Mineiro na Libertadores de 2013?",
+    "options": ["Jô", "Bernard", "Réver", "Ronaldinho Gaúcho"],
+    "answer": "Jô"
+  },
+  {
+    "id": 358,
+    "question": "Qual jogador é conhecido como o maior ídolo do Atlético Mineiro na década de 2010?",
+    "options": ["Ronaldinho Gaúcho", "Jô", "Diego Tardelli", "Réver"],
+    "answer": "Ronaldinho Gaúcho"
+  },
+  {
+    "id": 359,
+    "question": "Quem foi o técnico do Atlético Mineiro na conquista do Campeonato Brasileiro de 1971?",
+    "options": ["Telê Santana", "Procópio Cardoso", "Levir Culpi", "Cuca"],
+    "answer": "Procópio Cardoso"
+  },
+  {
+    "id": 360,
+    "question": "Qual é o maior clássico do Atlético Mineiro?",
+    "options": ["Clássico Mineiro", "Gre-Nal", "Fla-Flu", "Choque-Rei"],
+    "answer": "Clássico Mineiro"
+  },
+  {
+    "id": 361,
+    "question": "Quem é o maior artilheiro da história do Atlético Mineiro?",
+    "options": ["Reinaldo", "Jô", "Diego Tardelli", "Toninho Cerezo"],
+    "answer": "Reinaldo"
+  },
+  {
+    "id": 362,
+    "question": "Qual jogador do Atlético Mineiro foi eleito o melhor da Copa Libertadores de 2013?",
+    "options": ["Ronaldinho Gaúcho", "Jô", "Bernard", "Réver"],
+    "answer": "Ronaldinho Gaúcho"
+  },
+  {
+    "id": 363,
+    "question": "Quem foi o presidente do Atlético Mineiro na conquista da Libertadores de 2013?",
+    "options": ["Alexandre Kalil", "Daniel Nepomuceno", "Sérgio Coelho", "Marco Antônio"],
+    "answer": "Alexandre Kalil"
+  },
+  {
+    "id": 364,
+    "question": "Quantos títulos brasileiros o Atlético Mineiro possui até 2023?",
+    "options": ["3", "2", "1", "4"],
+    "answer": "3"
+  },
+  {
+    "id": 365,
+    "question": "Quem é o maior goleiro da história do Atlético Mineiro?",
+    "options": ["Émerson Leão", "Victor", "Renan Ribeiro", "João Leite"],
+    "answer": "João Leite"
+  },
+  {
+    "id": 366,
+    "question": "Quem foi o técnico do Atlético Mineiro na conquista da Copa do Brasil de 2014?",
+    "options": ["Levir Culpi", "Cuca", "Marcelo Oliveira", "Técnico A"],
+    "answer": "Levir Culpi"
+  },
+  {
+    "id": 367,
+    "question": "Qual jogador do Atlético Mineiro ficou conhecido pelo apelido de 'Rei das Pedaladas'?",
+    "options": ["Bernard", "Ronaldinho Gaúcho", "Diego Tardelli", "Jô"],
+    "answer": "Ronaldinho Gaúcho"
+  },
+  {
+    "id": 368,
+    "question": "Qual jogador do Atlético Mineiro foi destaque no Campeonato Brasileiro de 2021?",
+    "options": ["Hulk", "Nacho Fernández", "Allan", "Keno"],
+    "answer": "Hulk"
+  },
+  {
+    "id": 369,
+    "question": "Quem é o maior ídolo atleticano dos anos 2000?",
+    "options": ["Diego Tardelli", "Reinaldo", "Jô", "Bernard"],
+    "answer": "Diego Tardelli"
+  },
+  {
+    "id": 370,
+    "question": "Qual jogador do Atlético Mineiro participou da Copa do Mundo de 2018?",
+    "options": ["Victor", "Réver", "Leonardo Silva", "Bernard"],
+    "answer": "Victor"
+  },
+  {
+    "id": 371,
+    "question": "Qual é o nome do estádio menor onde o Atlético Mineiro manda jogos?",
+    "options": ["Independência", "Mineirão", "Beira-Rio", "Fonte Nova"],
+    "answer": "Independência"
+  },
+  {
+    "id": 372,
+    "question": "Quem foi o técnico do Atlético Mineiro na conquista da Recopa Sul-Americana de 2014?",
+    "options": ["Levir Culpi", "Cuca", "Marcelo Oliveira", "Mano Menezes"],
+    "answer": "Levir Culpi"
+  },
+  {
+    "id": 373,
+    "question": "Qual jogador do Atlético Mineiro é conhecido pelo apelido 'Aranha'?",
+    "options": ["Victor", "Jô", "Réver", "Leonardo Silva"],
+    "answer": "Victor"
+  },
+  {
+    "id": 374,
+    "question": "Quantas vezes o Atlético Mineiro foi campeão do Campeonato Mineiro até 2023?",
+    "options": ["46", "40", "50", "35"],
+    "answer": "46"
+  },
+  {
+    "id": 375,
+    "question": "Qual jogador do Atlético Mineiro foi destaque na Copa América de 2019?",
+    "options": ["Allan", "Hulk", "Nacho Fernández", "Keno"],
+    "answer": "Hulk"
+  },
+  {
+    "id": 376,
+    "question": "Quem foi o presidente do Atlético Mineiro durante a conquista da Copa Libertadores de 2013?",
+    "options": ["Alexandre Kalil", "Daniel Nepomuceno", "Sérgio Coelho", "Marco Antônio"],
+    "answer": "Alexandre Kalil"
+  },
+  {
+    "id": 377,
+    "question": "Qual jogador do Atlético Mineiro tem o apelido de 'Lobo'?",
+    "options": ["Réver", "Victor", "Jô", "Leonardo Silva"],
+    "answer": "Réver"
+  },
+  {
+    "id": 378,
+    "question": "Quem foi o técnico do Atlético Mineiro na conquista do Campeonato Brasileiro de 2021?",
+    "options": ["Cuca", "Levir Culpi", "Marcelo Oliveira", "Vanderlei Luxemburgo"],
+    "answer": "Cuca"
+  },
+  {
+    "id": 379,
+    "question": "Qual jogador do Atlético Mineiro é conhecido pelo apelido 'Hulk'?",
+    "options": ["Givanildo Vieira", "Bernard", "Jô", "Réver"],
+    "answer": "Givanildo Vieira"
+  },
+  {
+    "id": 380,
+    "question": "Qual é o nome do hino oficial do Atlético Mineiro?",
+    "options": ["Hino do Galo", "Hino do Atlético", "Hino do Mineirão", "Hino do Galo Preto e Branco"],
+    "answer": "Hino do Galo"
+  }
+],
+
+"cruzeiro": [
+  {
+    "id": 381,
+    "question": "Em que ano o Cruzeiro foi fundado?",
+    "options": ["1921", "1919", "1909", "1930"],
+    "answer": "1921"
+  },
+  {
+    "id": 382,
+    "question": "Qual é o apelido do Cruzeiro?",
+    "options": ["Raposa", "Galo", "Coelho", "Leão"],
+    "answer": "Raposa"
+  },
+  {
+    "id": 383,
+    "question": "Qual é o nome do estádio do Cruzeiro?",
+    "options": ["Mineirão", "Independência", "Beira-Rio", "Maracanã"],
+    "answer": "Mineirão"
+  },
+  {
+    "id": 384,
+    "question": "Quantos títulos da Copa do Brasil o Cruzeiro possui?",
+    "options": ["6", "5", "4", "7"],
+    "answer": "6"
+  },
+  {
+    "id": 385,
+    "question": "Em que ano o Cruzeiro conquistou a sua primeira Copa Libertadores?",
+    "options": ["1976", "1997", "1981", "2000"],
+    "answer": "1976"
+  },
+  {
+    "id": 386,
+    "question": "Quem foi o técnico do Cruzeiro na conquista da Libertadores de 1976?",
+    "options": ["Cláudio Coutinho", "Telê Santana", "Mário Zagallo", "Procópio Cardoso"],
+    "answer": "Cláudio Coutinho"
+  },
+  {
+    "id": 387,
+    "question": "Quem é o maior artilheiro da história do Cruzeiro?",
+    "options": ["Tostão", "Dirceu Lopes", "Raul Plassmann", "Roberto Batata"],
+    "answer": "Tostão"
+  },
+  {
+    "id": 388,
+    "question": "Quantos títulos brasileiros o Cruzeiro possui até 2023?",
+    "options": ["4", "3", "5", "2"],
+    "answer": "4"
+  },
+  {
+    "id": 389,
+    "question": "Quem foi o técnico do Cruzeiro na conquista do Campeonato Brasileiro de 2013?",
+    "options": ["Mano Menezes", "Levir Culpi", "Cuca", "Técnico A"],
+    "answer": "Mano Menezes"
+  },
+  {
+    "id": 390,
+    "question": "Qual jogador do Cruzeiro ficou conhecido como 'Rei do Drible'?",
+    "options": ["Dirceu Lopes", "Tostão", "Ronaldo", "Juninho"],
+    "answer": "Dirceu Lopes"
+  },
+  {
+    "id": 391,
+    "question": "Qual jogador do Cruzeiro foi destaque na Copa do Mundo de 1970?",
+    "options": ["Tostão", "Pelé", "Gerson", "Rivelino"],
+    "answer": "Tostão"
+  },
+  {
+    "id": 392,
+    "question": "Quantas vezes o Cruzeiro foi campeão do Campeonato Mineiro até 2023?",
+    "options": ["40", "38", "35", "42"],
+    "answer": "40"
+  },
+  {
+    "id": 393,
+    "question": "Quem foi o maior goleiro da história do Cruzeiro?",
+    "options": ["Raul Plassmann", "Fábio", "Dida", "Júlio César"],
+    "answer": "Raul Plassmann"
+  },
+  {
+    "id": 394,
+    "question": "Quem foi o técnico do Cruzeiro na conquista da Copa do Brasil em 1996?",
+    "options": ["Antônio Lopes", "Levir Culpi", "Celso Roth", "Muricy Ramalho"],
+    "answer": "Antônio Lopes"
+  },
+  {
+    "id": 395,
+    "question": "Qual jogador do Cruzeiro é conhecido como 'Rei das Pedaladas'?",
+    "options": ["Alex", "Sorín", "Fábio", "Ricardo Goulart"],
+    "answer": "Alex"
+  },
+  {
+    "id": 396,
+    "question": "Quem foi o maior artilheiro do Cruzeiro na Copa Libertadores de 1997?",
+    "options": ["Alex", "Palhinha", "Edmundo", "Marcelinho Carioca"],
+    "answer": "Alex"
+  },
+  {
+    "id": 397,
+    "question": "Qual foi o adversário do Cruzeiro na final da Copa do Brasil de 2017?",
+    "options": ["Flamengo", "Grêmio", "Palmeiras", "Atlético Mineiro"],
+    "answer": "Flamengo"
+  },
+  {
+    "id": 398,
+    "question": "Quem é o maior ídolo do Cruzeiro nos anos 2000?",
+    "options": ["Fábio", "Alex", "Sorín", "Ramires"],
+    "answer": "Fábio"
+  },
+  {
+    "id": 399,
+    "question": "Qual o nome da torcida organizada do Cruzeiro?",
+    "options": ["Máfia Azul", "Geral do Inter", "Raça Rubro-Negra", "Young Flu"],
+    "answer": "Máfia Azul"
+  },
+  {
+    "id": 400,
+    "question": "Quem foi o técnico do Cruzeiro na conquista da tríplice coroa em 2003?",
+    "options": ["Vanderlei Luxemburgo", "Levir Culpi", "Celso Roth", "Mano Menezes"],
+    "answer": "Vanderlei Luxemburgo"
+  },
+  {
+    "id": 401,
+    "question": "Quantos títulos do Campeonato Brasileiro o Cruzeiro conquistou consecutivamente em 2013 e 2014?",
+    "options": ["2", "1", "3", "Nenhum"],
+    "answer": "2"
+  },
+  {
+    "id": 402,
+    "question": "Qual jogador do Cruzeiro teve grande destaque na Copa Libertadores de 2013?",
+    "options": ["Ricardo Goulart", "Alex", "Fábio", "Ramires"],
+    "answer": "Ricardo Goulart"
+  },
+  {
+    "id": 403,
+    "question": "Qual é o maior clássico do futebol mineiro?",
+    "options": ["Clássico Mineiro", "Gre-Nal", "Choque-Rei", "Fla-Flu"],
+    "answer": "Clássico Mineiro"
+  },
+  {
+    "id": 404,
+    "question": "Quem é o maior ídolo do Cruzeiro dos anos 70?",
+    "options": ["Tostão", "Dirceu Lopes", "Palhinha", "Eduardo"],
+    "answer": "Tostão"
+  },
+  {
+    "id": 405,
+    "question": "Qual jogador do Cruzeiro foi campeão olímpico com a seleção brasileira em 2016?",
+    "options": ["Rafael Sóbis", "Marquinhos", "Fábio", "Ramires"],
+    "answer": "Marquinhos"
+  },
+  {
+    "id": 406,
+    "question": "Quem é o maior artilheiro do Cruzeiro no Campeonato Brasileiro?",
+    "options": ["Palhinha", "Tostão", "Ricardo Goulart", "Alex"],
+    "answer": "Palhinha"
+  },
+  {
+    "id": 407,
+    "question": "Qual jogador do Cruzeiro também atuou pelo Real Madrid?",
+    "options": ["Rivaldo", "Robinho", "Marcelo", "Hulk"],
+    "answer": "Rivaldo"
+  },
+  {
+    "id": 408,
+    "question": "Quem foi o técnico do Cruzeiro na conquista do Campeonato Mineiro de 2014?",
+    "options": ["Levir Culpi", "Mano Menezes", "Celso Roth", "Vanderlei Luxemburgo"],
+    "answer": "Levir Culpi"
+  },
+  {
+    "id": 409,
+    "question": "Qual é a principal cor do uniforme do Cruzeiro?",
+    "options": ["Azul", "Vermelho", "Preto", "Branco"],
+    "answer": "Azul"
+  },
+  {
+    "id": 410,
+    "question": "Qual jogador do Cruzeiro foi eleito o melhor do Campeonato Brasileiro de 2013?",
+    "options": ["Ricardo Goulart", "Alex", "Fábio", "Ramires"],
+    "answer": "Ricardo Goulart"
+  }
+]
+
+}
+
+
+
+
+
+
+
+
+
+
+
